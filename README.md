@@ -1,5 +1,5 @@
 # Balls-in-Bins
-A program that simulates the balls into bins process and records various statistics of the procedure. For the basic balls into bins process with n buckets, the program should report the following.
+A program that simulates the balls into bins process and records various statistics of the procedure. For the basic balls into bins process with n buckets, the program  reports the following.
 
 The time of the first collision.
 
